@@ -1,0 +1,23 @@
+{
+  "name": "BolaVersa Admin",
+  "short_name": "BolaVersa",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0F1218",
+  "theme_color": "#00DF82",
+  "description": "BolaVersa Admin - Football Prediction and League Administration Dashboard",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
