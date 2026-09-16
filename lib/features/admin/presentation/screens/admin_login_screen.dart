@@ -97,7 +97,7 @@ class _AdminLoginScreenState extends ConsumerState<AdminLoginScreen> {
                     style: const TextStyle(color: AppColors.textPrimary),
                     onSubmitted: (_) => _submit(),
                     decoration: InputDecoration(
-                      hintText: '••••••••',
+                      hintText: '',
                       suffixIcon: IconButton(
                         icon: Icon(
                           _obscure ? Icons.visibility_off_rounded : Icons.visibility_rounded,
